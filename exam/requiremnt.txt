@@ -1,0 +1,5 @@
+строка--https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
+список--https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html
+кортеж--https://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html
+словарь--https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html
+множество--https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html

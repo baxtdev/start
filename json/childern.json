@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "name": "Andrey",
+        "bd": 2001
+    },
+    {
+        "id": 2,
+        "name": "Andrie",
+        "bd": 2003
+    },
+    {
+        "id": 3,
+        "name": "Venom",
+        "bd": 2000
+    },
+    {
+        "id": 4,
+        "name": "Sergo",
+        "bd": 2006
+    },
+    {
+        "id": 5,
+        "name": "Anisa",
+        "age": 23
+    }
+]
